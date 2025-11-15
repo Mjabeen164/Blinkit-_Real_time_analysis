@@ -48,14 +48,17 @@ This Power BI dashboard visualizes key sales metrics for Blinkit, India’s “L
 
 ```
 ## 📂 Repository Structure
-  ├──- Dashboard_Cover.png 
-  ├── Blinkit_Dashboard_Walkthrough.mp4 
-  └── README.md                     # Project documentation
+  ├──Dashboard_Cover.png 
+  ├──Blinkit_Dashboard_Walkthrough.mp4 
+  └──README.md                     # Project documentation
 ```
 ```
 ## 👩‍💻 Author
 **Munawer Jabeen**  
 📧 Email: munawerjabeen703@gmail.com  
+
+🎯 Want the full interactive dashboard?
+Download it on Gumroad
 
 ---
 ⭐ If you found this project helpful, feel free to star the repository!
