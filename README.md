@@ -30,7 +30,7 @@ This Power BI dashboard visualizes key sales metrics for Blinkit, India’s “L
 - Reveals outlet performance by Tier and Type
 - Surfaces underperforming categories (e.g., Seafood, Breakfast)
 ```
-
+```
 ## 🎯 Key Features
 - Total Sales Overview: $444.79K across all small outlets
 - Outlet Filters: Location Type, Outlet Size, Item Type
