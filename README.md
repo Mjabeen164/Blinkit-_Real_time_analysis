@@ -36,8 +36,8 @@ This Power BI dashboard visualizes key sales metrics for Blinkit, India’s “L
 - Highlights the dominance of Low Fat products in sales
 - Reveals outlet performance by Tier and Type
 - Surfaces underperforming categories (e.g., Seafood, Breakfast)
-```
-```
+  
+---
 ## 🎯 Key Features
 - Total Sales Overview: $444.79K across all small outlets
 - Outlet Filters: Location Type, Outlet Size, Item Type
@@ -46,20 +46,20 @@ This Power BI dashboard visualizes key sales metrics for Blinkit, India’s “L
 - Time Series Analysis: Sales trends from 2012 to 2020
 - Product Breakdown: Sales by Fat Content, Item Type
 - Outlet Segmentation: Tier-wise sales and outlet type comparisons
-```
+
+---
 ## 📊🛠️ How to Use
 - Open the .pbix file in Power BI Desktop
 - Use filters to explore outlet performance by size, location, and item type
 - Customize visuals or connect to your own dataset if needed
-```
-
-```
+  
+---
 ## 📂 Repository Structure
   ├──Dashboard_Cover.png 
   ├──Blinkit_Dashboard_Walkthrough.mp4 
   └──README.md                     # Project documentation
-```
-```
+
+---
 ## 👩‍💻 Author
 **Munawer Jabeen**  
 📧 Email: munawerjabeen703@gmail.com  
