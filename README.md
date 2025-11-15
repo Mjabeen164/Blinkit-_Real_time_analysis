@@ -65,7 +65,7 @@ This Power BI dashboard visualizes key sales metrics for Blinkit, India’s “L
 📧 Email: munawerjabeen703@gmail.com  
 
 🎯 Want the full interactive dashboard?
-Download it on Gumroad
+Download it on Gumroad[https://munawer3.gumroad.com/l/pywpt]
 
 ---
 ⭐ If you found this project helpful, feel free to star the repository!
