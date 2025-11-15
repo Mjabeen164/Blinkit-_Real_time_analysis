@@ -15,7 +15,7 @@ This Power BI dashboard visualizes key sales metrics for Blinkit, India’s “L
 - Data Cleaning & Preprocessing
 
 ## 🧠 Design Rationale
-#📐 Layout Strategy
+###📐 Layout Strategy
 - Top-Level KPIs: Positioned for quick executive overview
 - Filter Panel: Left-aligned for intuitive interaction
 - Charts Grouped by Theme:
@@ -23,7 +23,7 @@ This Power BI dashboard visualizes key sales metrics for Blinkit, India’s “L
 - Product attributes (donut + bar charts)
 - Outlet segmentation (tier and type breakdowns)
   
-##🎨 Visual Choices
+###🎨 Visual Choices
 - Color Coding: Consistent use of brand colors for clarity
 - Chart Types:
 - Line Chart for temporal trends
@@ -31,13 +31,13 @@ This Power BI dashboard visualizes key sales metrics for Blinkit, India’s “L
 - Horizontal Bars for ranked comparisons
 - Typography: Clean, legible fonts for dashboard readability
   
-##📊 Data Storytelling
+###📊 Data Storytelling
 - Highlights the dominance of Low Fat products in sales
 - Reveals outlet performance by Tier and Type
 - Surfaces underperforming categories (e.g., Seafood, Breakfast)
   
 ---
-## 🎯 Key Features
+### 🎯 Key Features
 - Total Sales Overview: $444.79K across all small outlets
 - Outlet Filters: Location Type, Outlet Size, Item Type
 - Performance KPIs:
@@ -47,21 +47,26 @@ This Power BI dashboard visualizes key sales metrics for Blinkit, India’s “L
 - Outlet Segmentation: Tier-wise sales and outlet type comparisons
 
 ---
-## 📊🛠️ How to Use
+### 📊🛠️ How to Use
 - Open the .pbix file in Power BI Desktop
 - Use filters to explore outlet performance by size, location, and item type
 - Customize visuals or connect to your own dataset if needed
   
 ---
-## 📂 Repository Structure
+### 📂 Repository Structure
   ├──Dashboard_Cover.png 
   ├──Blinkit_Dashboard_Walkthrough.mp4 
-  └──README.md                     # Project documentation
+  └──README.md-Project documentation
 
 ---
 ## 👩‍💻 Author
 **Munawer Jabeen**  
 📧 Email: munawerjabeen703@gmail.com  
+
+---
+### License
+This dashboard is for personal or internal business use only. Redistribution or resale is not permitted.
+
 
 🎯 Want the full interactive dashboard?
 Download it on Gumroad[https://munawer3.gumroad.com/l/pywpt]
