@@ -10,9 +10,8 @@ This Power BI dashboard visualizes key sales metrics for Blinkit, India’s “L
 
 
 ## 🛠 Tools & Technologies
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
-- Exploratory Data Analysis (EDA)
-- Tableau (Dashboard development)
+- Power DAX & Power query
+- Power BI (Dashboard development)
 - Data Cleaning & Preprocessing
 
 ## 🧠 Design Rationale
