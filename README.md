@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="banner.png" alt="Munawer Jabeen | Data Analyst" width="850"/>
+</p>
+
+
 # Blinkit Sales Dashboard – Power BI Template
 
 ## 🚀 Overview
@@ -18,6 +23,7 @@ This Power BI dashboard visualizes key sales metrics for Blinkit, India’s “L
 - Time-based trends (line chart)
 - Product attributes (donut + bar charts)
 - Outlet segmentation (tier and type breakdowns)
+  
 ##🎨 Visual Choices
 - Color Coding: Consistent use of brand colors for clarity
 - Chart Types:
@@ -25,6 +31,7 @@ This Power BI dashboard visualizes key sales metrics for Blinkit, India’s “L
 - Donut Charts for categorical proportions
 - Horizontal Bars for ranked comparisons
 - Typography: Clean, legible fonts for dashboard readability
+  
 ##📊 Data Storytelling
 - Highlights the dominance of Low Fat products in sales
 - Reveals outlet performance by Tier and Type
